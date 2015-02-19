@@ -1,0 +1,22 @@
+{
+  "name": "door-sign-node",
+  "version": "0.0.6",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Carter Rabasa",
+  "license": "MIT",
+  "dependencies": {
+    "ical": "^0.3.1",
+    "spark": "^0.2.2",
+    "moment": "^2.8.3",
+    "moment-timezone": "^0.2.4"
+  },
+  "subdomain": "crabasa-door-sign-node",
+  "engines": {
+    "node": "0.10.x"
+  }
+}
